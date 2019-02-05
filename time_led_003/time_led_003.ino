@@ -20,10 +20,6 @@ void setup() {
   }
 
 }
-void countDown() {
-  int i = 9;
-
-}
 
 void writeonMatrix(int x) {
   int numlow = (x%10)*5; //Modulo returns the lower number (divided by ten and keep the rest)
